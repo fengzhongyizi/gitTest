@@ -13,6 +13,6 @@ public class GitTest {
         System.out.println("modify and add");//fourth version-->add
         System.out.println("modify and add");//fifth version-->add
         System.out.println("modify");//sixth version-->直接提交 未添加暂存区
-        System.out.println("modyfy");//seventh version-->直接提交 未添加暂存区
+        System.out.println("modyfy");//seventh version-->直接提交 未添加暂存区//为啥第二个版本的历史没了。。是我忘了？
     }
 }
