@@ -7,6 +7,8 @@ package com.lipingkang.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("Hello Git");
+        System.out.println("Hello Git");//first version
+        System.out.println("modify");//second version
+        System.out.println("modify");//third version
     }
 }
