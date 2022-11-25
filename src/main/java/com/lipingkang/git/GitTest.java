@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("modyfy");//seventh version-->直接提交 未添加暂存区//为啥第二个版本的历史没了。。是我忘了？
         System.out.println("hot-fix Modify");
         System.out.println("conflict test master");
+        System.out.println("comflict test hotfix");
     }
 }
