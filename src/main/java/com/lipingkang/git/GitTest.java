@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("hot-fix Modify");
         System.out.println("conflict test master");
         System.out.println("comflict test hotfix");
+        System.out.println("try SSH");
     }
 }
